@@ -1,2 +1,28 @@
-# 9e4a43b438bcb504-dental-practice-customer-suppo
-Professional customer support ticketing bot built for dental practice operations and growth.
+# Dental Practice Customer Support Ticketing Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFabJ1bHh9MwbRSfQ8cZd0g)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFabJ1bHh9MwbRSfQ8cZd0g)
+
